@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+""" Square Class """
+
 
 class square():
+    """ Weird Square Class """
 
     width = 0
     height = 0
